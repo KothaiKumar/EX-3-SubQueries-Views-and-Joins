@@ -204,6 +204,8 @@ select s.name,c.cust_name,c.city,s.commission from salesman1 s right join custom
 ### Left Joint:
 ![image](https://github.com/KothaiKumar/EX-3-SubQueries-Views-and-Joins/assets/121215739/ed2e300d-272b-42cb-84f6-2d7a34fe8574)
 
+
+
 ### Right Joint:
 ![image](https://github.com/KothaiKumar/EX-3-SubQueries-Views-and-Joins/assets/121215739/489efc4b-710d-40f4-834d-337f6860d219)
 
